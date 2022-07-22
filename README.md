@@ -15,7 +15,7 @@
    
 ## ⭐️ Libraries and Frameworks:
 
-   [![Libraries and Frameworks](https://skillicons.dev/icons?i=vue,nuxt,tailwind,express)](https://skillicons.dev)
+   [![Libraries and Frameworks](https://skillicons.dev/icons?i=vue,nuxt,tailwind,express,firebase)](https://skillicons.dev)
   
 ## 🔧 Tools, IDEs and Softwares:
 
