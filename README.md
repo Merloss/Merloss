@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Kerim 👋</h1>
 
 <h2 align="center">
- 19 years old Turkish student, studying in Computer Programming 
+ 20 years old Turkish student, studying in Computer Programming 
 </h2>
 
 <br> 
