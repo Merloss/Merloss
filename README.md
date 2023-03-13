@@ -15,11 +15,11 @@
    
 ## ⭐️ Libraries and Frameworks:
 
-   [![Libraries and Frameworks](https://skillicons.dev/icons?i=vue,nuxt,tailwind,express,firebase)](https://skillicons.dev)
+   [![Libraries and Frameworks](https://skillicons.dev/icons?i=vue,nuxt,tailwind,windi,express,firebase,nest,prisma)](https://skillicons.dev)
   
 ## 🔧 Tools, IDEs and Softwares:
 
-   [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=figma,ps,ae,visualstudio,vscode)](https://skillicons.dev)
+   [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=figma,ps,ae,visualstudio,vscode,idea)](https://skillicons.dev)
  
   <br>
   <br>
