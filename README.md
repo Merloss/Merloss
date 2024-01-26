@@ -24,10 +24,10 @@
   <br>
   <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=merloss&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-contribution-stats.vercel.app/api/?username=merloss)
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merloss&theme=tokyonight&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merloss&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
