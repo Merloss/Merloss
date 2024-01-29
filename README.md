@@ -1,35 +1,7 @@
-###
-
-<h1 align="center">Hello, I'm Kerim 👋</h1>
-
-<h2 align="center">
- 20 years old Turkish student, studying in Computer Programming 
-</h2>
-
-<br> 
-  
-## 🧬 Languages:
-
-[![Languages](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
-
-   
-## ⭐️ Libraries and Frameworks:
-
-   [![Libraries and Frameworks](https://skillicons.dev/icons?i=vue,nuxt,tailwind,windi,express,firebase,nest,prisma)](https://skillicons.dev)
-  
-## 🔧 Tools, IDEs and Softwares:
-
-   [![Tools, IDEs and Softwares](https://skillicons.dev/icons?i=figma,ps,ae,visualstudio,vscode,idea)](https://skillicons.dev)
- 
-  <br>
-  <br>
 
 ![GitHub stats](https://github-contribution-stats.vercel.app/api/?username=merloss)
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merloss&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merloss&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
 <br>
